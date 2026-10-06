@@ -3,7 +3,7 @@
 A production-ready RESTful API for Employee Management built with Node.js, Express, SQLite, and Prisma ORM.
 
 ## Live Deployment
-- **API Base URL:** https://YOUR-RENDER-APP-URL.onrender.com
+- **API Base URL:** https://gupio-employee-api-production.up.railway.app
 - **Health Check:** `GET /health`
 
 ---
